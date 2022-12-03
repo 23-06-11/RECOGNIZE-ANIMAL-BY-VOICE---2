@@ -1,0 +1,27 @@
+body
+{
+  font-family: 'Akaya Telivigala', cursive;
+  background: orange;
+}
+
+.header_div
+  {
+  background:rgb(166, 0, 255);
+  color: palegreen; 
+  }
+  .btn
+  {
+    margin-top: 30px;
+  }
+
+  .copy_right_footer {
+    position: fixed;
+    color: #269683;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #9d2828;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(176, 144, 39);
+ }
